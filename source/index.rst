@@ -1,4 +1,4 @@
-Sample Resume with Sphinx
+Tracy Rusch's Sphinx Resume
 ###############################
 
 
