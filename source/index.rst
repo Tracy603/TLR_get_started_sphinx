@@ -14,11 +14,10 @@ Chief Cook & Bottle Washer at Buttonwood Cottage
 
 .. toctree::
    :maxdepth: 2
+   
+   RST_to_Sphinx_Resume.rst
 
-   profile
-   experience
-   skills
-   education
+
 
 
 .. add new files to list above to include them in toc
