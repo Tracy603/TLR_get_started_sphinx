@@ -6,7 +6,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tracy Rusch's Sphinx Resume Project'
+project = u"Tracy Rusch's Sphinx Resume Project"
 copyright = u'2019, Tracy Rusch via Mark Hoeber'
 author = u'Text: Tracy Rusch; Format: Mark Hoeber'
 
