@@ -8,8 +8,6 @@ TRACY L. RUSCH
 #####################
 
 .. image:: images/LinkedInPortraitDSC08514.jpg
-Find file Copy path
-
     :width: 200
     :alt: Portrait of Tracy Rusch
 
