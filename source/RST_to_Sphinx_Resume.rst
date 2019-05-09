@@ -7,7 +7,7 @@
 TRACY L. RUSCH
 #####################
 
-.. image:: Linked In Portrait DSC08514.jpg
+.. image:: images/Linked In Portrait DSC08514.jpg
     :width: 200
     :alt: Portrait of Tracy Rusch
 
